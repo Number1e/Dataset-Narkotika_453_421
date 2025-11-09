@@ -1,6 +1,5 @@
-# Dataset-Narkotika_453_421
-Dataset Putusan Pidana Khusus Narkotika - Pengadilan Negeri Mataram
-Deskripsi
+# Dataset Putusan Pidana Khusus Narkotika - Pengadilan Negeri Mataram
+# Deskripsi
 Dataset ini berisi kumpulan putusan perkara pidana khusus narkotika dari Pengadilan Negeri Mataram. Data dikumpulkan dari direktori putusan website Mahkamah Agung Republik Indonesia. Dataset ini mencakup putusan yang dipublikasikan dalam kurun waktu tiga bulan terakhir dari tanggal pengambilan data.
 
 Detail Dataset
